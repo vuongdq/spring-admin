@@ -14,8 +14,5 @@ spring-admin
 -----
 ![admin](https://i.ibb.co/8mJ9j1y/Screenshot-1.png)
 ![admin](https://i.ibb.co/hgXkvVm/Screenshot-14.png)
-(https://i.ibb.co/8mJ9j1y/Screenshot-1.png)
-(https://i.ibb.co/hgXkvVm/Screenshot-14.png)
-
 
 ###### Cảm ơn anh em nhé! Đồng Quốc Vương
